@@ -39,7 +39,7 @@
         }
       }
     ],
-    "webpack": true,
+    "webpack": false,
     "tsConfigPath": "apps/monorepo-swagger-plugin/tsconfig.app.json"
   },
   "monorepo": true,
